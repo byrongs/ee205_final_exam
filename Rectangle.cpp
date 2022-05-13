@@ -5,7 +5,6 @@
 #include "Rectangle.h"
 using namespace std;
 
-
 double Rectangle::newLength()
 {   if(length <= 0) {
     throw std::invalid_argument(" Length must be greater than 0");

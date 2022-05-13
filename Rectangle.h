@@ -16,7 +16,7 @@ public:
 
     double newWidth();
 
-    double getLength();
+    double getLength(); ///Getters
 
     double getWidth();
 
@@ -30,6 +30,5 @@ protected:
     double length;
 
     double width;
-
 
 };

@@ -12,11 +12,10 @@
 class Shape {
 
 public:
-    Shape(double length, double width);
+    Shape(double length, double width); /// constructor
 
+public:
 
-double computeArea();
-
-
+    double computeArea(); ///Method
 
 };

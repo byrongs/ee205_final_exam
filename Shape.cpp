@@ -6,6 +6,10 @@
 using namespace std;
 
 
-double Shape::computeArea() {
-    return(length * width);
-
+double Shape::compute_area() {
+    return
+            double
+    Shape::computeArea()
+    {
+        return 0;
+    }
